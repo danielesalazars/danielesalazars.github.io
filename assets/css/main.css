@@ -1648,7 +1648,7 @@
 	@media screen and (max-width: 980px) {
 
 		header br {
-			display: none;
+			//display: none;
 		}
 
 	}
@@ -3532,7 +3532,7 @@
 				}
 
 				#banner br {
-					display: none;
+					//display: none;
 				}
 
 				#banner .more {
