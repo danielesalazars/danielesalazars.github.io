@@ -3463,7 +3463,7 @@
 			-ms-transform: translateY(0);
 			transform: translateY(0);
 			border: none;
-			bottom: 10px;
+			bottom: 0;
 			color: inherit;
 			font-size: 0.8em;
 			height: 8.5em;
@@ -3823,4 +3823,13 @@
 	.p_footer{	
 		margin:0;
 		padding-bottom: 0.5em;
+	}
+	.c_trabajo{
+		background-color: rgba(0, 0, 0, 0.15);
+	}
+	.c_header_trabajo{
+		padding-top: 1em;padding-bottom: 1em;
+	    border-bottom: 2px solid;
+	    display: inline-block;
+	    position: relative;
 	}
